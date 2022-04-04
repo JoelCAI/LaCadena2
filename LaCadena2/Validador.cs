@@ -33,13 +33,7 @@ namespace LaCadena2
 
         }
 
-        public static void ConcatenarTexto(string nombre)
-        {
-            Console.Clear();
-            Console.WriteLine("\n Hola " + "*" + nombre + "*");
-
-        }
-
+  
         public static void Despedida()
         {
 
